@@ -1,0 +1,2 @@
+This is anotherFile.txt and you are on git terminal.
+don't you know? hahahah!!
